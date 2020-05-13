@@ -1,0 +1,61 @@
+/* body */
+p{
+    font-family: Open Sans,sans-serif !important;
+    font-size: 20px;
+}
+
+h2{
+    font: Regular 80px/80px Bree Serif !important;
+    font-size: 70px;
+    text-shadow: 0px 3px 6px #000000BA;
+    color: var(--dark-red);
+    
+}
+
+/* Nossos estabelecimento */
+#ourplace{
+    background-image:url('../imagens/fundo-est-1.png');
+}
+
+#ourplace a{
+    background-color:var(--dark-red);
+    font-family: Bree Serif,sans-serif;
+    font-size: 18px;
+    text-shadow: 0px 3px 6px #000000BA;
+    color:var(--white);
+}
+
+.btn-primary{
+    background-color: var(--dark-red);
+    border: none;
+    color: var(--white);
+    box-shadow: 0px 3px 6px #000000;
+}
+
+/* Localizacao */
+#localizacao{
+    background-image:url('../imagens/lousa-tst.png');
+}
+
+#localizacao p{
+    font-size:15px;
+    font-family: Open Sans,sans-serif !important;
+    color: var(--white);
+}
+
+address{
+    font-family: Open Sans,sans-serif !important;
+    font-size: 18px;
+    font-style: normal;
+}
+
+/* Footer */
+.bg-primary{
+    background-color: var(--dark-red) !important;
+}
+
+.Footer-Whats{
+    font: Regular 80px/80px Bree Serif !important;
+    font-size: 20px;
+    text-shadow: 0px 3px 6px #000000BA;
+}
